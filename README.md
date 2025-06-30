@@ -33,7 +33,7 @@ A modern, professional AI chatting website with voice recognition, text-to-speec
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Dr-MrBot/Jarvis-AI
    cd JARVIS-Web
    ```
 
@@ -102,7 +102,7 @@ A modern, professional AI chatting website with voice recognition, text-to-speec
 1. **Add homepage to package.json**
    ```json
    {
-     "homepage": "https://yourusername.github.io/your-repo-name"
+     "homepage": "https://github.com/Dr-MrBot/Jarvis-AI"
    }
    ```
 
